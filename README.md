@@ -48,7 +48,7 @@ If the section that follows was a Buzzfeed blog post, it's title would be "Top T
 
 # Building a CI Pipeline with Github Actions
 
-We know that if a test doesn't fail then it technically passes. What about if you never run your tests? Join me for this and other deep philosophical questions. In this section, we'll begin building out some of our automated testing pipeline (a.k.a. continuous integration) using [Github Actions](https://www.google.com/search?client=safari&rls=en&q=github+actions&ie=UTF-8&oe=UTF-8).
+We know that if a test doesn't fail then it technically passes. What about if you never run your tests? Join me for this and other deep philosophical questions. In this section, we'll begin building out some of our automated testing pipeline ( a.k.a. continuous integration) using [Github Actions](https://www.google.com/search?client=safari&rls=en&q=github+actions&ie=UTF-8&oe=UTF-8).
 
 - [Getting Started with Github Actions](content/Getting%20Started%20with%20Github%20Actions.md)
 - [Adding a Step to Your Github Action](content/Adding%20a%20Step%20to%20Your%20Github%20Action.md)
