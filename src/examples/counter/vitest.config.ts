@@ -11,6 +11,10 @@ export default defineConfig({
   },
   test: {
     globals: true,
+    setupFiles: './test/setup.ts',
     exclude: [...defaultExclude, '**/*.svelte**'],
+    environmentMatchGlobs: [
+      ['**/*.test.tsx', 'jsdom'],
+    ],
   },
 });
